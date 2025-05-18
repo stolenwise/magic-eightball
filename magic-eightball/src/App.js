@@ -15,6 +15,7 @@ const answers=
           { msg: "Outlook good.", color: "green" },
           { msg: "Yes.", color: "green" },
           { msg: "Signs point to yes.", color: "goldenrod" },
+          { msg: "The medium is the message.", color: "lightblue" },
           { msg: "Reply hazy, try again.", color: "goldenrod" },
           { msg: "Ask again later.", color: "goldenrod" },
           { msg: "Better not tell you now.", color: "goldenrod" },
